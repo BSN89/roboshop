@@ -8,6 +8,7 @@
 }
 
 .container img {
+
   height: 400px;
   width: 400px;
   margin-bottom: 20px;
@@ -19,5 +20,17 @@
   margin-top: 10px;
   padding: 10px 20px;
   font-size: 16px;
+}
+
+@media screen and (max-width: 768px) {
+  .container img {
+    margin-top: auto;
+    height: 200px;
+    width: 200px;
+  }
+  .container button {
+    padding: 5px 10px;
+    font-size: 14px;
+  }
 }
 
