@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/roboshop/static/css/main.10d56f2e.css",
+    "main.css": "/roboshop/static/css/main.87d96a70.css",
     "main.js": "/roboshop/static/js/main.8a159ffc.js",
     "static/js/453.0c07f664.chunk.js": "/roboshop/static/js/453.0c07f664.chunk.js",
     "static/media/cat7.png": "/roboshop/static/media/cat7.9a91b31bb280024be37c.png",
@@ -17,12 +17,12 @@
     "static/media/cat12.png": "/roboshop/static/media/cat12.b96f143561e7043f019b.png",
     "static/media/cat10.png": "/roboshop/static/media/cat10.5a8566011cb4b50ad915.png",
     "index.html": "/roboshop/index.html",
-    "main.10d56f2e.css.map": "/roboshop/static/css/main.10d56f2e.css.map",
+    "main.87d96a70.css.map": "/roboshop/static/css/main.87d96a70.css.map",
     "main.8a159ffc.js.map": "/roboshop/static/js/main.8a159ffc.js.map",
     "453.0c07f664.chunk.js.map": "/roboshop/static/js/453.0c07f664.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10d56f2e.css",
+    "static/css/main.87d96a70.css",
     "static/js/main.8a159ffc.js"
   ]
 }
