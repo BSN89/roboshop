@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/roboshop/static/css/main.10d56f2e.css",
+    "main.js": "/roboshop/static/js/main.8a159ffc.js",
+    "static/js/453.0c07f664.chunk.js": "/roboshop/static/js/453.0c07f664.chunk.js",
+    "static/media/cat7.png": "/roboshop/static/media/cat7.9a91b31bb280024be37c.png",
+    "static/media/cat6.png": "/roboshop/static/media/cat6.49681feeb6f669a850fc.png",
+    "static/media/cat5.png": "/roboshop/static/media/cat5.ec8b9c91baf5d20f372c.png",
+    "static/media/myava.png": "/roboshop/static/media/myava.e28e5ac8d057c3bb9b13.png",
+    "static/media/cat9.png": "/roboshop/static/media/cat9.8e8720cfbe05266c6704.png",
+    "static/media/cat1.png": "/roboshop/static/media/cat1.c0150fe626bd9929d01f.png",
+    "static/media/cat8.png": "/roboshop/static/media/cat8.4d0323df1f0de1a3d3de.png",
+    "static/media/cat3.png": "/roboshop/static/media/cat3.14561e9d634aed025dbe.png",
+    "static/media/cat4.png": "/roboshop/static/media/cat4.14561e9d634aed025dbe.png",
+    "static/media/cat2.png": "/roboshop/static/media/cat2.9e8f957f15c0b4892f2c.png",
+    "static/media/cat11.png": "/roboshop/static/media/cat11.cdfbd90fb3c6135edb7a.png",
+    "static/media/cat12.png": "/roboshop/static/media/cat12.b96f143561e7043f019b.png",
+    "static/media/cat10.png": "/roboshop/static/media/cat10.5a8566011cb4b50ad915.png",
+    "index.html": "/roboshop/index.html",
+    "main.10d56f2e.css.map": "/roboshop/static/css/main.10d56f2e.css.map",
+    "main.8a159ffc.js.map": "/roboshop/static/js/main.8a159ffc.js.map",
+    "453.0c07f664.chunk.js.map": "/roboshop/static/js/453.0c07f664.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d56f2e.css",
+    "static/js/main.8a159ffc.js"
+  ]
+}
